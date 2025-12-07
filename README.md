@@ -11,8 +11,6 @@ This repository contains the complete security assessment documentation for the 
 **Assessment Date:** December 1-4, 2025  
 **Target Application:** https://juice-shop.herokuapp.com  
 **Assessed by:** Divyanshu Prajapat
-**Overall Risk Rating:** CRITICAL ⚠️
-
 ---
 
 ## 🎯 Project Objectives
